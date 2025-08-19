@@ -1,3 +1,3 @@
 # Pankaj-Thakur
-I starting git
+I starting git.
  Author-Anand Mohan Thakur
